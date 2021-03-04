@@ -1,1 +1,1 @@
-"# Web apps development, Mikhadyuk Kirina" 
+Web apps development, Mikhadyuk Kirina
